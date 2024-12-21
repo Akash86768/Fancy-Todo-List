@@ -5,7 +5,6 @@ A modern and user-friendly task management application designed to help users or
 ## Features
 - **Add, Edit, and Delete Tasks:** Intuitive UI for seamless task management.
 - **Mark as Complete:** Track task progress with a single click.
-- **Task Filtering:** Sort tasks by status (completed/pending) or deadlines.
 - **Responsive Design:** Fully optimized for desktop and mobile devices.
 - **State Management:** Efficient use of React hooks or state libraries for smooth data handling.
 - **Performance:** Powered by Vite for fast development and builds.
@@ -38,7 +37,6 @@ A modern and user-friendly task management application designed to help users or
 1. Add tasks by typing into the input field and clicking "Add".
 2. Mark tasks as complete by clicking the checkbox.
 3. Edit or delete tasks using the respective buttons.
-4. Filter tasks by status (e.g., Completed or Pending).
 
 ## License
 This project is licensed under the MIT License.
